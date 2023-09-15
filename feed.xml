@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <generator uri="https://github.com/waschinski/photo-stream">Photo Stream</generator>
+    <link href="https://maxvoltar.photo/feed.xml" rel="self" type="application/atom+xml" />
+    <link href="https://maxvoltar.photo" rel="alternate" type="text/html"/>
+    <updated>2023-09-15T03:16:39+00:00</updated>
+    <id>2023-09-15T03:16:39+00:00</id>
+    <title type="html"><![CDATA[maxvoltar.photo]]></title>
+    <subtitle><![CDATA[@maxvoltar's minimalistic, self-hosted photo stream.]]></subtitle>
+    <author>
+      <name><![CDATA[Tim Van Damme]]></name>
+      <email>tim@maxvoltar.be</email>
+      <uri>https://maxvoltar.com</uri>
+    </author>
+    <entry>
+      <title type="html">045</title>
+      <link href="https://maxvoltar.photo/045/" rel="alternate" type="text/html" title="045" />
+      <published></published>
+      <updated></updated>
+      <id>https://maxvoltar.photo/045/</id>
+      <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/045/"><img src="https://maxvoltar.photo/photos/large/045-686656.jpg" alt="045" /></a></figure>
+      ]]>
+    </content>
+    <author>
+      <name><![CDATA[Tim Van Damme]]></name>
+      <email>tim@maxvoltar.be</email>
+      <uri>https://maxvoltar.com</uri>
+    </author>
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/045-686656.jpg" />
+      <media:content medium="image" url="https://maxvoltar.photo/photos/large/045-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      </entry>
+      <entry>
+        <title type="html">044</title>
+        <link href="https://maxvoltar.photo/044/" rel="alternate" type="text/html" title="044" />
+        <published></published>
+        <updated></updated>
+        <id>https://maxvoltar.photo/044/</id>
+        <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/044/"><img src="https://maxvoltar.photo/photos/large/044-686656.jpg" alt="044" /></a></figure>
+        ]]>
+      </content>
+      <author>
+        <name><![CDATA[Tim Van Damme]]></name>
+        <email>tim@maxvoltar.be</email>
+        <uri>https://maxvoltar.com</uri>
+      </author>
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/044-686656.jpg" />
+        <media:content medium="image" url="https://maxvoltar.photo/photos/large/044-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        </entry>
+        <entry>
+          <title type="html">043</title>
+          <link href="https://maxvoltar.photo/043/" rel="alternate" type="text/html" title="043" />
+          <published></published>
+          <updated></updated>
+          <id>https://maxvoltar.photo/043/</id>
+          <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/043/"><img src="https://maxvoltar.photo/photos/large/043-686656.jpg" alt="043" /></a></figure>
+          ]]>
+        </content>
+        <author>
+          <name><![CDATA[Tim Van Damme]]></name>
+          <email>tim@maxvoltar.be</email>
+          <uri>https://maxvoltar.com</uri>
+        </author>
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/043-686656.jpg" />
+          <media:content medium="image" url="https://maxvoltar.photo/photos/large/043-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          </entry>
+          <entry>
+            <title type="html">041</title>
+            <link href="https://maxvoltar.photo/041/" rel="alternate" type="text/html" title="041" />
+            <published></published>
+            <updated></updated>
+            <id>https://maxvoltar.photo/041/</id>
+            <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/041/"><img src="https://maxvoltar.photo/photos/large/041-686656.jpg" alt="041" /></a></figure>
+            ]]>
+          </content>
+          <author>
+            <name><![CDATA[Tim Van Damme]]></name>
+            <email>tim@maxvoltar.be</email>
+            <uri>https://maxvoltar.com</uri>
+          </author>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/041-686656.jpg" />
+            <media:content medium="image" url="https://maxvoltar.photo/photos/large/041-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+            </entry>
+            <entry>
+              <title type="html">015</title>
+              <link href="https://maxvoltar.photo/015/" rel="alternate" type="text/html" title="015" />
+              <published></published>
+              <updated></updated>
+              <id>https://maxvoltar.photo/015/</id>
+              <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/015/"><img src="https://maxvoltar.photo/photos/large/015-686656.jpg" alt="015" /></a></figure>
+              ]]>
+            </content>
+            <author>
+              <name><![CDATA[Tim Van Damme]]></name>
+              <email>tim@maxvoltar.be</email>
+              <uri>https://maxvoltar.com</uri>
+            </author>
+            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/015-686656.jpg" />
+              <media:content medium="image" url="https://maxvoltar.photo/photos/large/015-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+              </entry>
+              <entry>
+                <title type="html">040</title>
+                <link href="https://maxvoltar.photo/040/" rel="alternate" type="text/html" title="040" />
+                <published></published>
+                <updated></updated>
+                <id>https://maxvoltar.photo/040/</id>
+                <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/040/"><img src="https://maxvoltar.photo/photos/large/040-686656.jpg" alt="040" /></a></figure>
+                ]]>
+              </content>
+              <author>
+                <name><![CDATA[Tim Van Damme]]></name>
+                <email>tim@maxvoltar.be</email>
+                <uri>https://maxvoltar.com</uri>
+              </author>
+              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/040-686656.jpg" />
+                <media:content medium="image" url="https://maxvoltar.photo/photos/large/040-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                </entry>
+                <entry>
+                  <title type="html">032</title>
+                  <link href="https://maxvoltar.photo/032/" rel="alternate" type="text/html" title="032" />
+                  <published></published>
+                  <updated></updated>
+                  <id>https://maxvoltar.photo/032/</id>
+                  <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/032/"><img src="https://maxvoltar.photo/photos/large/032-686656.jpg" alt="032" /></a></figure>
+                  ]]>
+                </content>
+                <author>
+                  <name><![CDATA[Tim Van Damme]]></name>
+                  <email>tim@maxvoltar.be</email>
+                  <uri>https://maxvoltar.com</uri>
+                </author>
+                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/032-686656.jpg" />
+                  <media:content medium="image" url="https://maxvoltar.photo/photos/large/032-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                  </entry>
+                  <entry>
+                    <title type="html">005</title>
+                    <link href="https://maxvoltar.photo/005/" rel="alternate" type="text/html" title="005" />
+                    <published></published>
+                    <updated></updated>
+                    <id>https://maxvoltar.photo/005/</id>
+                    <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/005/"><img src="https://maxvoltar.photo/photos/large/005-686656.jpg" alt="005" /></a></figure>
+                    ]]>
+                  </content>
+                  <author>
+                    <name><![CDATA[Tim Van Damme]]></name>
+                    <email>tim@maxvoltar.be</email>
+                    <uri>https://maxvoltar.com</uri>
+                  </author>
+                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/005-686656.jpg" />
+                    <media:content medium="image" url="https://maxvoltar.photo/photos/large/005-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                    </entry>
+                    <entry>
+                      <title type="html">003</title>
+                      <link href="https://maxvoltar.photo/003/" rel="alternate" type="text/html" title="003" />
+                      <published></published>
+                      <updated></updated>
+                      <id>https://maxvoltar.photo/003/</id>
+                      <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/003/"><img src="https://maxvoltar.photo/photos/large/003-686656.jpg" alt="003" /></a></figure>
+                      ]]>
+                    </content>
+                    <author>
+                      <name><![CDATA[Tim Van Damme]]></name>
+                      <email>tim@maxvoltar.be</email>
+                      <uri>https://maxvoltar.com</uri>
+                    </author>
+                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/003-686656.jpg" />
+                      <media:content medium="image" url="https://maxvoltar.photo/photos/large/003-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                      </entry>
+                      <entry>
+                        <title type="html">001</title>
+                        <link href="https://maxvoltar.photo/001/" rel="alternate" type="text/html" title="001" />
+                        <published></published>
+                        <updated></updated>
+                        <id>https://maxvoltar.photo/001/</id>
+                        <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/001/"><img src="https://maxvoltar.photo/photos/large/001-686656.jpg" alt="001" /></a></figure>
+                        ]]>
+                      </content>
+                      <author>
+                        <name><![CDATA[Tim Van Damme]]></name>
+                        <email>tim@maxvoltar.be</email>
+                        <uri>https://maxvoltar.com</uri>
+                      </author>
+                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/001-686656.jpg" />
+                        <media:content medium="image" url="https://maxvoltar.photo/photos/large/001-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                        </entry>
+                        <entry>
+                          <title type="html">002</title>
+                          <link href="https://maxvoltar.photo/002/" rel="alternate" type="text/html" title="002" />
+                          <published></published>
+                          <updated></updated>
+                          <id>https://maxvoltar.photo/002/</id>
+                          <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/002/"><img src="https://maxvoltar.photo/photos/large/002-686656.jpg" alt="002" /></a></figure>
+                          ]]>
+                        </content>
+                        <author>
+                          <name><![CDATA[Tim Van Damme]]></name>
+                          <email>tim@maxvoltar.be</email>
+                          <uri>https://maxvoltar.com</uri>
+                        </author>
+                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/002-686656.jpg" />
+                          <media:content medium="image" url="https://maxvoltar.photo/photos/large/002-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                          </entry>
+                          <entry>
+                            <title type="html">004</title>
+                            <link href="https://maxvoltar.photo/004/" rel="alternate" type="text/html" title="004" />
+                            <published></published>
+                            <updated></updated>
+                            <id>https://maxvoltar.photo/004/</id>
+                            <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/004/"><img src="https://maxvoltar.photo/photos/large/004-686656.jpg" alt="004" /></a></figure>
+                            ]]>
+                          </content>
+                          <author>
+                            <name><![CDATA[Tim Van Damme]]></name>
+                            <email>tim@maxvoltar.be</email>
+                            <uri>https://maxvoltar.com</uri>
+                          </author>
+                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/004-686656.jpg" />
+                            <media:content medium="image" url="https://maxvoltar.photo/photos/large/004-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                            </entry>
+                            <entry>
+                              <title type="html">008</title>
+                              <link href="https://maxvoltar.photo/008/" rel="alternate" type="text/html" title="008" />
+                              <published></published>
+                              <updated></updated>
+                              <id>https://maxvoltar.photo/008/</id>
+                              <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/008/"><img src="https://maxvoltar.photo/photos/large/008-686656.jpg" alt="008" /></a></figure>
+                              ]]>
+                            </content>
+                            <author>
+                              <name><![CDATA[Tim Van Damme]]></name>
+                              <email>tim@maxvoltar.be</email>
+                              <uri>https://maxvoltar.com</uri>
+                            </author>
+                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/008-686656.jpg" />
+                              <media:content medium="image" url="https://maxvoltar.photo/photos/large/008-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                              </entry>
+                              <entry>
+                                <title type="html">006</title>
+                                <link href="https://maxvoltar.photo/006/" rel="alternate" type="text/html" title="006" />
+                                <published></published>
+                                <updated></updated>
+                                <id>https://maxvoltar.photo/006/</id>
+                                <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/006/"><img src="https://maxvoltar.photo/photos/large/006-686656.jpg" alt="006" /></a></figure>
+                                ]]>
+                              </content>
+                              <author>
+                                <name><![CDATA[Tim Van Damme]]></name>
+                                <email>tim@maxvoltar.be</email>
+                                <uri>https://maxvoltar.com</uri>
+                              </author>
+                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/006-686656.jpg" />
+                                <media:content medium="image" url="https://maxvoltar.photo/photos/large/006-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                </entry>
+                                <entry>
+                                  <title type="html">007</title>
+                                  <link href="https://maxvoltar.photo/007/" rel="alternate" type="text/html" title="007" />
+                                  <published></published>
+                                  <updated></updated>
+                                  <id>https://maxvoltar.photo/007/</id>
+                                  <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/007/"><img src="https://maxvoltar.photo/photos/large/007-686656.jpg" alt="007" /></a></figure>
+                                  ]]>
+                                </content>
+                                <author>
+                                  <name><![CDATA[Tim Van Damme]]></name>
+                                  <email>tim@maxvoltar.be</email>
+                                  <uri>https://maxvoltar.com</uri>
+                                </author>
+                                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/007-686656.jpg" />
+                                  <media:content medium="image" url="https://maxvoltar.photo/photos/large/007-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                  </entry>
+                                  <entry>
+                                    <title type="html">014</title>
+                                    <link href="https://maxvoltar.photo/014/" rel="alternate" type="text/html" title="014" />
+                                    <published></published>
+                                    <updated></updated>
+                                    <id>https://maxvoltar.photo/014/</id>
+                                    <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/014/"><img src="https://maxvoltar.photo/photos/large/014-686656.jpg" alt="014" /></a></figure>
+                                    ]]>
+                                  </content>
+                                  <author>
+                                    <name><![CDATA[Tim Van Damme]]></name>
+                                    <email>tim@maxvoltar.be</email>
+                                    <uri>https://maxvoltar.com</uri>
+                                  </author>
+                                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/014-686656.jpg" />
+                                    <media:content medium="image" url="https://maxvoltar.photo/photos/large/014-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                    </entry>
+                                    <entry>
+                                      <title type="html">012</title>
+                                      <link href="https://maxvoltar.photo/012/" rel="alternate" type="text/html" title="012" />
+                                      <published></published>
+                                      <updated></updated>
+                                      <id>https://maxvoltar.photo/012/</id>
+                                      <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/012/"><img src="https://maxvoltar.photo/photos/large/012-686656.jpg" alt="012" /></a></figure>
+                                      ]]>
+                                    </content>
+                                    <author>
+                                      <name><![CDATA[Tim Van Damme]]></name>
+                                      <email>tim@maxvoltar.be</email>
+                                      <uri>https://maxvoltar.com</uri>
+                                    </author>
+                                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/012-686656.jpg" />
+                                      <media:content medium="image" url="https://maxvoltar.photo/photos/large/012-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                      </entry>
+                                      <entry>
+                                        <title type="html">010</title>
+                                        <link href="https://maxvoltar.photo/010/" rel="alternate" type="text/html" title="010" />
+                                        <published></published>
+                                        <updated></updated>
+                                        <id>https://maxvoltar.photo/010/</id>
+                                        <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/010/"><img src="https://maxvoltar.photo/photos/large/010-686656.jpg" alt="010" /></a></figure>
+                                        ]]>
+                                      </content>
+                                      <author>
+                                        <name><![CDATA[Tim Van Damme]]></name>
+                                        <email>tim@maxvoltar.be</email>
+                                        <uri>https://maxvoltar.com</uri>
+                                      </author>
+                                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/010-686656.jpg" />
+                                        <media:content medium="image" url="https://maxvoltar.photo/photos/large/010-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                        </entry>
+                                        <entry>
+                                          <title type="html">011</title>
+                                          <link href="https://maxvoltar.photo/011/" rel="alternate" type="text/html" title="011" />
+                                          <published></published>
+                                          <updated></updated>
+                                          <id>https://maxvoltar.photo/011/</id>
+                                          <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/011/"><img src="https://maxvoltar.photo/photos/large/011-686656.jpg" alt="011" /></a></figure>
+                                          ]]>
+                                        </content>
+                                        <author>
+                                          <name><![CDATA[Tim Van Damme]]></name>
+                                          <email>tim@maxvoltar.be</email>
+                                          <uri>https://maxvoltar.com</uri>
+                                        </author>
+                                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/011-686656.jpg" />
+                                          <media:content medium="image" url="https://maxvoltar.photo/photos/large/011-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                          </entry>
+                                          <entry>
+                                            <title type="html">013</title>
+                                            <link href="https://maxvoltar.photo/013/" rel="alternate" type="text/html" title="013" />
+                                            <published></published>
+                                            <updated></updated>
+                                            <id>https://maxvoltar.photo/013/</id>
+                                            <content type="html"><![CDATA[<figure><a href="https://maxvoltar.photo/013/"><img src="https://maxvoltar.photo/photos/large/013-686656.jpg" alt="013" /></a></figure>
+                                            ]]>
+                                          </content>
+                                          <author>
+                                            <name><![CDATA[Tim Van Damme]]></name>
+                                            <email>tim@maxvoltar.be</email>
+                                            <uri>https://maxvoltar.com</uri>
+                                          </author>
+                                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo/photos/large/013-686656.jpg" />
+                                            <media:content medium="image" url="https://maxvoltar.photo/photos/large/013-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                            </entry>
+                                          </feed>
